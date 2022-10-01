@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_dailynews"
+        android:title="" />
+    <item
+        android:id="@+id/nav_mynews"
+        android:title="" />
+
+    <item
+        android:id="@+id/nav_hidden_option"
+        android:title="" />
+
+    <item
+        android:id="@+id/nav_gallery"
+        android:title="" />
+
+    <item
+        android:id="@+id/nav_more"
+        android:title="" />
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoUi2</string>
+    <string name="services_categories">Services Categories</string>
+    <string name="title1">Construction</string>
+    <string name="title2">Furniture</string>
+    <string name="title3">Fitout</string>
+    <string name="product_categories">Product Categories</string>
+</resources>
